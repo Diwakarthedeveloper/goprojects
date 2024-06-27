@@ -12,7 +12,7 @@ func main() {
 		return
 
 	}
-	name := os.Args[1]
+	name := os.Args[1] //
 
 	fmt.Println("Hello", name, "how are you")
 }
